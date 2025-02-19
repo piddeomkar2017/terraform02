@@ -1,0 +1,1 @@
+terraform import aws_s3_bucket.prod my-bucket-19022025
