@@ -1,0 +1,1 @@
+terraform import aws_db_subnet_group.test custome-subnet-group
